@@ -22,7 +22,7 @@ h1, h2 {
 }
 span {color: red;}
 .pozadina {
-	background-image: url("fagz/random/vintage_honey_bee_wallpaper_bf3e6061-8af4-4d75-a270-c1491954e7f9_1024x1024.webp");
+	background-image: url("../pozadina.png");
 	
 a:link ;
 	color: black;
