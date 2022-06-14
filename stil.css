@@ -1,0 +1,16 @@
+@charset "utf-8";
+/* CSS Document */
+.pozadina { 
+	background-image: url("9019e328b1fb875c1a1a5846a2e4c5e1.jpg")
+}
+img { 
+	height:  400px;
+}
+h1, h2 {
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+		color: indigo;
+}
+h3 {
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	color: darkolivegreen;
+}
